@@ -13,7 +13,7 @@ namespace GunPrototype.Weapons
         [SerializeField] private MeshRandomizer.Config _meshRandomizerConfig;
         [SerializeField] private MeshFilter _meshFilter;
         [SerializeField] private PoolObject _explodingPraticles;
-        [SerializeField] private float _speedFactor = 20f;
+        [SerializeField] private float _speedFactor = 10f;
         [SerializeField] private Vector2 _explosionScaleMinMax = new Vector2(0.5f, 0.6f);
         [SerializeField] private Color _decalBaseColor = Color.white;
         [SerializeField] private Sprite _explosionDecalSprite;

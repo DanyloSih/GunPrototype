@@ -132,7 +132,7 @@ MonoBehaviour:
     RandomRange: 0.2
   _meshFilter: {fileID: 5383199458990534330}
   _explodingPraticles: {fileID: 6571058491050627819, guid: 059f12997dfaabb4ba293122084ac69a, type: 3}
-  _speedFactor: 10
+  _speedFactor: 5
   _explosionScaleMinMax: {x: 0.5, y: 0.6}
   _decalBaseColor: {r: 1, g: 1, b: 1, a: 1}
   _explosionDecalSprite: {fileID: 21300000, guid: 8757db2d183388249beb0f643e92abaa, type: 3}
